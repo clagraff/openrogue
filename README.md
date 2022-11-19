@@ -1,0 +1,2 @@
+# openrogue
+An opensource roguelike
